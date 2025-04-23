@@ -34,6 +34,6 @@ connectDB()
   })
 
   .catch((err) => {
-    console.log("connection faild sam" + err);
+    console.log("connection faild" + err);
   });
   
